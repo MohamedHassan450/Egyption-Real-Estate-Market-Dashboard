@@ -8,6 +8,7 @@ The main focus of the project is **data cleaning, rebuilding, and modeling** bef
 <img width="1309" height="735" alt="Screenshot 2026-02-08 065302" src="https://github.com/user-attachments/assets/7730a529-d153-492e-8ca8-2e67d24f919a" />
 <img width="1308" height="745" alt="Screenshot 2026-02-08 065318" src="https://github.com/user-attachments/assets/38b0b0aa-8baf-45d4-b5c1-57faf999c6b1" />
 <img width="1311" height="740" alt="Screenshot 2026-02-08 065335" src="https://github.com/user-attachments/assets/f6f9e9cf-b832-46c5-ba95-2520e8b357c9" />
+
 ---
 
 ## 🛠️ Tools & Technologies
