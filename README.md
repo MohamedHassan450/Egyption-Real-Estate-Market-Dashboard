@@ -5,8 +5,8 @@ This project analyzes the **Egyptian real estate market** using real listing dat
 The main focus of the project is **data cleaning, rebuilding, and modeling** before visualization, ensuring the dashboard is accurate, reliable, and ready for real-world decision making.
 
 ---
-<img width="1418" height="799" alt="Screenshot 2026-03-25 132948" src="https://github.com/user-attachments/assets/10f52b19-e4b4-4616-8b79-75888b8f1157" />
-<img width="1417" height="797" alt="Screenshot 2026-03-25 133022" src="https://github.com/user-attachments/assets/a4136f89-5cb6-4f6b-9e72-20fb17f7d642" />
+<img width="1414" height="793" alt="Screenshot 2026-03-25 133357" src="https://github.com/user-attachments/assets/20a59283-d7a5-413c-a465-03a5d6c2aa17" />
+<img width="1414" height="794" alt="Screenshot 2026-03-25 133416" src="https://github.com/user-attachments/assets/3ed523e4-91ba-4d5e-bf5c-ce20ddc92056" />
 
 ---
 
